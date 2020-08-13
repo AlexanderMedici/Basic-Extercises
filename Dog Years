@@ -1,0 +1,31 @@
+const myAge = 30;
+// age  assingned variable i am using the const vasriable as it is fixed
+let earlyYears = 2;
+// another assingned variable i am using the let vasriable as it is changable
+
+earlyYears *=10.5;
+// I am subtracting from the variable named earlyYears.
+
+let laterYears = myAge - 2;
+ // I am subtracting from the constant variable named myAge creating a new variable named laterYears and will use the sum of it in the new variable.
+ laterYears *=4;
+
+console.log(earlyYears);
+console.log(laterYears);
+// by using console.log method i can extrapolate the results of my code and ensure it works and the results are the same as if a mathematical operation occured. 
+let myAgeInDogYears = earlyYears + laterYears;
+// simply adding earlyYears and laterYears
+console.log(myAgeInDogYears);
+
+
+ let myName = (`Ivo`.toLowerCase());
+ 
+ console.log(myName)
+
+ 
+
+// allows myname to be printed in lower case
+
+
+console.log(`My name is ${myName}. I am ${myAgeInDogYears} years old in dog years.`);
+
