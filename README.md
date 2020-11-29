@@ -1,4 +1,4 @@
-# Basic-Extercises
+# Basic- Javascript Extercises
 rock paper scissors
 
 const getUserChoice = userInput => {
