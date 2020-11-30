@@ -57,6 +57,7 @@ logTime(name2, days2);
 
 
 
+LEARN JAVASCRIPT
 Training Days
 As a seasoned athlete, one of your favorite activities is running marathons. You use a service called Training Days that sends you a message for the event you signed up for and the days you have left to train.
 
@@ -65,7 +66,7 @@ Since you also code, Training Days has asked you to help them solve a problem: T
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Help“ to see a project walkthrough video.
 
 Tasks
-12/12 Complete
+0/12 Complete
 Mark the tasks as complete by checking them off
 1.
 Let’s begin by running the trainingDays.js file. In the console we can see that the program is broken!
@@ -116,7 +117,7 @@ Try the functions for another competitor. Copy and paste this code at the end of
 const event2 = getRandEvent();
 const days2 = getTrainingDays(event2);
 const name2 = 'Warren';
-
+ 
 logEvent(name2, event2);
 logTime(name2, days2);
 10.
